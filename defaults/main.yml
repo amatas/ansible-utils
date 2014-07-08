@@ -1,0 +1,17 @@
+---
+
+utils_packages:
+  - acpid
+  - htop
+  - vim
+  - gdisk
+  - screen
+  - hdparm
+  - lm_sensors
+  - smartmontools
+  - openssh-clients
+  - wget
+  - man
+  - sudo
+  - btrfs-progs
+  - xfsprogs
